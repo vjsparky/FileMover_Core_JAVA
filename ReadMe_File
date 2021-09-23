@@ -1,0 +1,6 @@
+Requirements for this code to run.
+
+Install MySQL Workbench and configure inside the code
+Create aws ec2 instances for target server and configure inside the code.
+
+After configuring Database and target server this code will work.
