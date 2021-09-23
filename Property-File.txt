@@ -1,0 +1,8 @@
+localInputFilepath==V:\\SFTP
+remotelocation==/home/ec2-user
+key==V:\\Softwares\\AWS\\NewKey.pem
+
+username==root
+password==Sparky@6@21998
+dbdriver==com.mysql.jdbc.Driver
+dburl==jdbc:mysql://localhost:3306/vijay?characterEncoding=latin1&useConfigs=maxPerformance
